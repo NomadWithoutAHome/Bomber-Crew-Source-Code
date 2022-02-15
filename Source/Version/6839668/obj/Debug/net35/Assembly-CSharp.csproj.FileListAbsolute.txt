@@ -1,0 +1,15 @@
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\obj\Debug\net35\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\obj\Debug\net35\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\Assembly-CSharp.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\Assembly-CSharp.pdb
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\Assembly-CSharp-firstpass.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\GameAnalytics.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\Rewired_Core.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\TextMeshPro-1.0.55.56.0b12.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\UnityEngine.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\UnityEngine.UI.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\bin\Debug\net35\Mono.Data.Sqlite.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\obj\Debug\net35\Assembly-CSharp.csproj.CopyComplete
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\obj\Debug\net35\Assembly-CSharp.dll
+C:\Users\SeanS\OneDrive\Documents\GitHub\Bomber-Crew-Source-Code\Source\Version\6839668\obj\Debug\net35\Assembly-CSharp.pdb

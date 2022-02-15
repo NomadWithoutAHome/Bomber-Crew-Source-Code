@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net35</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Folder Include="Rewired\Platforms\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>E:\SteamLibrary\steamapps\common\BomberCrew\BomberCrew_Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Rewired_Core">
+      <HintPath>E:\SteamLibrary\steamapps\common\BomberCrew\BomberCrew_Data\Managed\Rewired_Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>E:\SteamLibrary\steamapps\common\BomberCrew\BomberCrew_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>E:\SteamLibrary\steamapps\common\BomberCrew\BomberCrew_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="TextMeshPro-1.0.55.56.0b12">
+      <HintPath>E:\SteamLibrary\steamapps\common\BomberCrew\BomberCrew_Data\Managed\TextMeshPro-1.0.55.56.0b12.dll</HintPath>
+    </Reference>
+    <Reference Include="GameAnalytics">
+      <HintPath>E:\SteamLibrary\steamapps\common\BomberCrew\BomberCrew_Data\Managed\GameAnalytics.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
